@@ -8,7 +8,7 @@ pkg install python
 
 pkg install git
 
-git clone
+git clone https://github.com/ze4n-github/INFO-CELL-
 
 cd INFO-CELL
 
