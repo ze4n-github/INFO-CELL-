@@ -10,7 +10,7 @@ pkg install git
 
 git clone https://github.com/ze4n-github/INFO-CELL-
 
-cd INFO-CELL
+cd INFO-CELL- 
 
 pyrhon instalación.py
 
