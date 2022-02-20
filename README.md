@@ -12,6 +12,6 @@ git clone https://github.com/ze4n-github/INFO-CELL-
 
 cd INFO-CELL- 
 
-pyrhon instalación.py
+python instalación.py
 
 python info-cell.py
