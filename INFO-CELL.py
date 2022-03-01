@@ -26,7 +26,7 @@ print("INSTAGRAM: ze4n.py")
 print("--------------------------------------")
 print("TIK TOK  : zean.py")
 print("-------------------------------------- \n")
-print(GREEN+"escribe el numero de telefono junto\ncon el prefijo, ejemplo: +523313002435\n")
+print(GREEN+"escribe el numero de telefono junto\ncon el prefijo, ejemplo: +526621745707\n")
 
 api_key = '31e04799e5b72d22be4bed51565ddadb'
 
