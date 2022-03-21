@@ -12,5 +12,6 @@ git clone https://github.com/ze4n-github/INFO-CELL-
 
 cd INFO-CELL- 
 
+pip install requests
 
 python INFO-CELL.py
