@@ -26,7 +26,7 @@ print("TIK TOK  : zean.py")
 print("-------------------------------------- \n")
 print(GREEN+"escribe el numero de telefono junto\ncon el prefijo, ejemplo: +526621745707\n")
 
-api_key = '0c6ffefb305364ce1e185d1c8aed5597'
+api_key = '7e1cadf1fc1587fd37db7ea1e6c29a50'
 
 number = int(input(GREEN+"Numero de telefono: "+RESET))
 
